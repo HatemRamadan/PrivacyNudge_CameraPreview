@@ -4,4 +4,6 @@ For research purposes (my bachelor thesis), we wanted to investigate users' feel
 
 This tool is about showing a floating window covering a small part of the screen which contains the front-facing camera feed. Moreover, Apps icons which are accessing the camera are showen at the bottom of the floating window.
 
-![](camera1.jpg) ![](camera2.jpg)
+## Screenshots
+<img src="camera1.jpg" width="350" height="600">
+<img src="camera2.jpg" width="350" height="600">
